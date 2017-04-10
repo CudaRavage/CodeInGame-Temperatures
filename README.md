@@ -4,4 +4,4 @@ https://www.codingame.com/ide/puzzle/temperatures
 
 Personal solution;
 
-Puzzled 100%'ed
+Puzzle 100%'ed
